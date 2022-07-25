@@ -1,1 +1,1 @@
-# currency-api
+# Currency API
